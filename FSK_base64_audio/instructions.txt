@@ -1,0 +1,7 @@
+fsk modulation:
+input: byte array
+output: audio as base64
+
+fsk demodulation:
+input: audio as base64
+output: byte array
